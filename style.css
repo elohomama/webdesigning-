@@ -1,0 +1,10 @@
+body {
+    background-color: darkgrey;
+    font-family: cursive;
+    font-style: italic;
+    background-image: image("image24")
+}
+p {
+    font-family: sans-serif;
+    font-style: oblique;
+}
